@@ -3,7 +3,7 @@ Blender script to calculate pole angles for ik constraints
 
 ## HOWTO
 After following these steps shift+ctrl+v to mirror paste a pose should work properly, and pole angles have correct values so chains bone rolls dont matter while creating the rig.
-``
+```
 1. run blender from terminal to see script output
 2. create FK rig
 3. Set all bone rotation to euler in edit and pose mode
