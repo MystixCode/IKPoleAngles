@@ -1,7 +1,7 @@
 # IKPoleAngles
 Blender script to calculate pole angles for ik constraints
 
-## HOWTO
+## HowTo
 After following these steps shift+ctrl+v to mirror paste a pose should work properly, and pole angles have correct values so chains bone rolls dont matter while creating the rig.
 
 ```
